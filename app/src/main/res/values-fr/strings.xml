@@ -1,0 +1,64 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz acupuncture</string>
+    <string name="layout_name_hint">Nom</string>
+    <string name="layout_answer_hint">Votre réponse</string>
+
+    <!-- Question 1 -->
+    <string name="layout_question_1">1. Combien de méridiens principaux (Jing Zheng) y a-t-il dans le réseau
+        des méridiens principaux et secondaires (Jing Luo) ?</string>
+    <string name="question_1_answer_1">12</string>
+
+    <!-- Question 2 -->
+    <string name="layout_question_2">2. Lesquels de ces merveilleux vaisseaux ont leurs points propres ?</string>
+    <string name="layout_q_2_answer_1">Chong Mai</string>
+    <string name="layout_q_2_answer_2">Dai Mai</string>
+    <string name="layout_q_2_answer_3">Ren Mai</string>
+    <string name="layout_q_2_answer_4">Du Mai</string>
+
+    <!-- Question 3 -->
+    <string name="layout_question_3">3. Lequel de ces Qi est le Qi défensif ?</string>
+    <string name="layout_q_3_answer_1">Jing Qi</string>
+    <string name="layout_q_3_answer_2">Yuan Qi</string>
+    <string name="layout_q_3_answer_3">Wei Qi</string>
+
+    <!-- Question 4 -->
+    <string name="layout_question_4">4. Lequel de ces organes est couplé avec le Coeur dans le rapport Yin Yang ?</string>
+    <string name="layout_q_4_answer_1">Rate-Pancrèas</string>
+    <string name="layout_q_4_answer_2">Gros intestin</string>
+    <string name="layout_q_4_answer_3">Intestin grêle</string>
+
+    <!-- Question 5 -->
+    <string name="layout_question_5">5. Dans le système des 5 éléments (Wu Xing), quel élément est la grand-mère du métal ?</string>
+    <string name="question_5_answer_1">feu</string>
+
+    <!-- Question 6 -->
+    <string name="layout_question_6">6. Lequelles de ces affirmations sont correctes ?</string>
+    <string name="layout_q_6_answer_1">Zunsanli (36E) est un point Ben</string>
+    <string name="layout_q_6_answer_2">Sanyinjiao (6RP) est le point feu de la Rate-Pancrèas</string>
+    <string name="layout_q_6_answer_3">Neiguan (6MC) est le point Luo du Maître-Coeur</string>
+
+    <!-- Question 7 -->
+    <string name="layout_question_7">7. Quelle est l\'unité de mesure en acupuncture ?</string>
+    <string name="layout_q_7_answer_1">centimètre</string>
+    <string name="layout_q_7_answer_2">cun</string>
+    <string name="layout_q_7_answer_3">pouces</string>
+
+    <!-- Question 8 -->
+    <string name="layout_question_8">8. Dans le cas d\'une insuffisance du Yin du Foie, quel point stimuleriez-vous ?</string>
+    <string name="layout_q_8_answer_1">3F</string>
+    <string name="layout_q_8_answer_2">38VB</string>
+    <string name="layout_q_8_answer_3">2F</string>
+    <string name="layout_q_8_answer_4">8F</string>
+
+    <!-- Submit button -->
+    <string name="layout_submit_button">Valider</string>
+
+    <!-- createScoreSummary method -->
+    <string name="score_summary_hello">Bonjour <xliff:g example="Joe" id="userName">%s</xliff:g> !</string>
+    <string name="score_summary_score">Votre score est : <xliff:g example="0" id="score">%d</xliff:g></string>
+    <string name="score_summary_newbie">C\'est un peu tôt pour toucher une aguille&#8230;</string>
+    <string name="score_summary_keep_it_on">Continuez l\'apprentissage !</string>
+    <string name="score_summary_right_path">Vous êtes sur le chemin de la maîtrise !</string>
+    <string name="score_summary_master">Oh mon Maître !</string>
+
+</resources>

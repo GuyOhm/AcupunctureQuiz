@@ -1,0 +1,63 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Acupuncture quiz</string>
+    <string name="layout_name_hint">Name</string>
+    <string name="layout_answer_hint">Your answer</string>
+
+    <!-- Question 1 -->
+    <string name="layout_question_1">1. How many primary channels (Jing Zheng) are there in the channel and network vessels (Jing Luo)?</string>
+    <string name="question_1_answer_1">12</string>
+
+    <!-- Question 2 -->
+    <string name="layout_question_2">2. Which of those extraordinary vessels have their own points?</string>
+    <string name="layout_q_2_answer_1">Chong Mai</string>
+    <string name="layout_q_2_answer_2">Dai Mai</string>
+    <string name="layout_q_2_answer_3">Ren Mai</string>
+    <string name="layout_q_2_answer_4">Du Mai</string>
+
+    <!-- Question 3 -->
+    <string name="layout_question_3">3. Which of those Qi is the defensive Qi?</string>
+    <string name="layout_q_3_answer_1">Jing Qi</string>
+    <string name="layout_q_3_answer_2">Yuan Qi</string>
+    <string name="layout_q_3_answer_3">Wei Qi</string>
+
+    <!-- Question 4 -->
+    <string name="layout_question_4">4. In the Yin Yang relationship, which of those organs is paired with the Heart?</string>
+    <string name="layout_q_4_answer_1">Spleen</string>
+    <string name="layout_q_4_answer_2">Large intestine</string>
+    <string name="layout_q_4_answer_3">Small intestine</string>
+
+    <!-- Question 5 -->
+    <string name="layout_question_5">5. In the system of the 5 elements (Wu Xing) what element is the grandmother of the metal?</string>
+    <string name="question_5_answer_1">fire</string>
+
+    <!-- Question 6 -->
+    <string name="layout_question_6">6. Which of those statements are true?</string>
+    <string name="layout_q_6_answer_1">Zunsanli (ST36) is a Ben point</string>
+    <string name="layout_q_6_answer_2">Sanyinjiao (SP6) is the fire point of the Spleen</string>
+    <string name="layout_q_6_answer_3">Neiguan (P6) is the Luo point of the Pericardium</string>
+
+    <!-- Question 7 -->
+    <string name="layout_question_7">7. What is the unit of measurement in acupuncture?</string>
+    <string name="layout_q_7_answer_1">centimeter</string>
+    <string name="layout_q_7_answer_2">cun</string>
+    <string name="layout_q_7_answer_3">inches</string>
+
+    <!-- Question 8 -->
+    <string name="layout_question_8">8. In case of Yin insufficiency of the Liver, what point would you stimulate?</string>
+    <string name="layout_q_8_answer_1">LIV3</string>
+    <string name="layout_q_8_answer_2">GB38</string>
+    <string name="layout_q_8_answer_3">LIV2</string>
+    <string name="layout_q_8_answer_4">LIV8</string>
+
+    <!-- Submit button -->
+    <string name="layout_submit_button">Submit</string>
+
+    <!-- createScoreSummary method -->
+    <string name="score_summary_hello">Hello <xliff:g example="Joe" id="userName">%s</xliff:g>!</string>
+    <string name="score_summary_score">Your score is: <xliff:g example="0" id="score">%d</xliff:g></string>
+    <string name="score_summary_newbie">Please don\'t touch a needle yet&#8230;</string>
+    <string name="score_summary_keep_it_on">Keep on training!</string>
+    <string name="score_summary_right_path">You\'re on the right path to mastery!</string>
+    <string name="score_summary_master">Oh my Master!</string>
+
+</resources>
