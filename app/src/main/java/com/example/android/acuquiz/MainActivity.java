@@ -13,10 +13,16 @@ public class MainActivity extends AppCompatActivity {
     // Keep track of the score
     int quizScore;
 
+    // Views declaration
+    EditText nameEditText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Initialize views
+        nameEditText = (EditText) findViewById(R.id.layout_name);
     }
 
     /**
@@ -151,7 +157,6 @@ public class MainActivity extends AppCompatActivity {
      * This method gets the user name
      */
     private String getUserName() {
-        EditText nameEditText = (EditText) findViewById(R.id.layout_name);
         String name = nameEditText.getText().toString();
         return name;
     }
