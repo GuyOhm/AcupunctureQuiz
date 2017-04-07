@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     // Keep track of the score
     int quizScore;
 
-    // Views declaration
+    // Declare view
     EditText nameEditText;
 
     @Override
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Initialize views
+        // Initialize view
         nameEditText = (EditText) findViewById(R.id.layout_name);
     }
 
