@@ -2,6 +2,8 @@
 
 This app is a quiz to test your acupuncture knowledge !
 
+![acuquiz](https://user-images.githubusercontent.com/23559053/54205453-a6954000-44d6-11e9-843a-4aeef0514690.png)
+
 ## Description
 
 Enter your name and start answering the 8 questions that will determine if you're a needles master!
